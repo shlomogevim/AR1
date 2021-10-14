@@ -47,7 +47,7 @@
         app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
 
         <TextView
-            android:id="@+id/tyModel"
+            android:id="@+id/tvModel"
             android:layout_width="match_parent"
             android:layout_height="50dp"
             android:background="@color/yellow"
